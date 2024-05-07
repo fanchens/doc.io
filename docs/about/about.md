@@ -2,7 +2,7 @@
 # 欢迎来到小宇的博客
 本站建于 2024 年 5 月 6 日，是一个个人博客，主要记录一些编程、技术、学习、等方面的内容。
 
-本博客使用了开源静态博客框架 Docsify，网站访问情况可通过  查看。
+本博客使用了开源静态博客框架 Docsify，网站访问情况可通过 https://fanchens.github.io/doc.io/#/ 查看。
 
 本站文章知识共享许可协议为 
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans" target="_blank">CC BY-NC-SA 4.0。</a>您可以在遵守协议的前提下自由转载、分享、修改，但需注明作者和出处、不得用于商业目的、基于本协议进行再分享。
